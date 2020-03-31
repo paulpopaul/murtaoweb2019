@@ -1,3 +1,3 @@
 # murtaoweb
 Murtao Restorán - Valdivia
-home-murtao.jpg
+<img src="home-murtao.jpg" width="400px">
